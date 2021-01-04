@@ -10,7 +10,7 @@ end
 
 def link
   get_weapon = 'It's Dangerous To Go Alone! Take This.'
-  puts receive_sword
+  puts get_weapon
 end
 
 def all_phrases(phrase)
