@@ -9,10 +9,10 @@ def toadstool
 end
 
 def link
-  get_weapon = "It's Dangerous To Go Alone! Take This."
-  puts get_weapon
+  puts "It's Dangerous To Go Alone! Take This."
 end
 
-def all_phrases(phrase)
-  puts phrase
-end 
+def all_phrases
+  mario
+  toadstool
+  link
