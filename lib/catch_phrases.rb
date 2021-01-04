@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  get_sword = 'It's Dangerous To Go Alone! Take This.'
+  get_weapon = 'It's Dangerous To Go Alone! Take This.'
   puts receive_sword
 end
 
